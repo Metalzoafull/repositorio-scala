@@ -1,5 +1,3 @@
-package ar.edu.unahur
-
 class RepositorioEnMemoria[T] extends Repositorio[T] {
   override def get(): List[T] = ???
 

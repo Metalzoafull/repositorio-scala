@@ -1,5 +1,3 @@
-package ar.edu.unahur
-
 trait Repositorio[T] {
   // Devuelve todos los elementos
   def get(): List[T]

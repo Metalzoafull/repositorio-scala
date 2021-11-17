@@ -1,5 +1,3 @@
-package ar.edu.unahur
-
 import org.scalatest.BeforeAndAfterEach
 import org.scalatest.freespec.AnyFreeSpec
 import org.scalatest.matchers.should.Matchers
